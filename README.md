@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Max
+- 👀 I’m interested in SwiftUI and software in general
+- 🌱 I’m currently learning Swift and Express
+- 💞️ I’m looking to collaborate on anything but I have a background in healthcare and business.
+- 📫 How to reach me: email me at mwade@duck.com
